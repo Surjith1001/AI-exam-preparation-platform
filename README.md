@@ -21,3 +21,5 @@ The implementation steps in a software development project involve translating t
 •	Integration Testing: Once the individual components have been tested, they are integrated and tested together as a complete system. Integration testing verifies that the components work together as intended and that data flows correctly between them.
 
 <img src="https://github.com/Surjith1001/AI-exam-preparation-platform/assets/125909533/089d80ad-c7f2-4078-8d32-cd816d7c9f9f">
+
+<img src="https://github.com/Surjith1001/AI-exam-preparation-platform/assets/125909533/cbe36c78-0f2f-4f7a-a3ea-9e5387cd177b">
